@@ -1,17 +1,13 @@
 ### ¡Hola! 👋 Soy German Conil !!
 
-🌐 Estudiante full-stack con experiencia en tecnologías como TypeScript, React, Redux.js y más..<br>
-💛 Actualmente estudiando en Henry..<br>
+🌐 Desarrollador Fron end  con experiencia en tecnologías como TypeScript, React, Redux.js y más..<br>
 🚀 Siempre aprendiendo y explorando nuevas tecnologías y enfoques..<br>
 
 ### Un poco de mi
-¡Hola! Soy Germán, un arquitecto graduado de la UNC con una sólida formación en diseño arquitectónico. Durante mi trayectoria académica, adquirí un profundo conocimiento de los fundamentos clave de la arquitectura, los cuales pude aplicar a lo largo de 4 años ejerciendo como arquitecto profesional.
-
-Sin embargo, mi pasión por la tecnología me ha impulsado a embarcarme en una nueva aventura profesional. He completado con éxito mi formación en Desarrollo Full Stack en la prestigiosa academia Henry. 
-A través de este programa integral, he ampliado mis destrezas en diversos lenguajes de programación, tecnologías tanto front-end como back-end, y el manejo de bases de datos. Esta transición me llena de emoción al considerar las oportunidades para aplicar y expandir estos conocimientos en un entorno profesional.
-
-¡Estoy entusiasmado por lo que el futuro me depara mientras combino lo mejor de ambos mundos, la arquitectura y el desarrollo tecnológico, en mi jornada profesional!
-
+¡Hola! Soy Germán, soy arquitecto egresado de la UNC - Mendoza, Argentina, con una sólida formación en diseño arquitectónico. Mi pasión por la tecnología me ha llevado a emprender una nueva carrera. 
+Actualmente, trabajo como desarrollador front end en una empresa local, aplicando y ampliando mis conocimientos adquiridos.
+He finalizado con éxito una carrera de Full Stack Developer en una reconocida academia, donde adquirí una base sólida en lenguajes de programación y tecnologías de front-end, back-end y bases de datos.
+Mi objetivo principal es seguir ampliando estos conocimientos en mi carrera profesional. Me considero una persona con mentalidad analítica y creativa, capaz de abordar desafíos técnicos con una perspectiva innovadora.
 
 ###  💼 Proyectos destacados 
 
